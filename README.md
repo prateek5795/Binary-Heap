@@ -1,7 +1,7 @@
 # Binary-Heap
 
 CS 5V81 - Implementation of data structures and algorithms  
-Fall 2018
+Fall 2018  
 Short Project 3: Priority queues
 
 Authors - Team SG2 15
